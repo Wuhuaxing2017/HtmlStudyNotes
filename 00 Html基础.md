@@ -73,7 +73,7 @@ HTML代码中连续的空行只会显示为一个空格。
 | ins    | 定义插入字   |
 | del    | 定义删除字   |
 
-# HTML <head></head>
+# HTML `<head></head>`
 
 `<head></head>`元素包含头部标签元素，比如可以插入脚本`scripts`、样式文件`css`以及各种meat信息。
 
