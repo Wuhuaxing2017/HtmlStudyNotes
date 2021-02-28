@@ -83,4 +83,82 @@ HTML代码中连续的空行只会显示为一个空格。
 
 `<meta>`标签提供了元数据，不显示但会被浏览器解析
 
+# HTML样式-CSS
+
+CSS（Cascading Style Sheets）用于渲染HTML元素标签的样式
+
+![image-20201201151842338](C:\Users\Wuhuaxing\AppData\Roaming\Typora\typora-user-images\image-20201201151842338.png)
+
+- 内嵌
+- 内部样式表
+- 外部引用
+
+# HTML图像 img
+
+<img> 标签，源属性src，src指source，它的值是11图像URL地址。alt属性用于定义可替换文本，当无法加载时显示失去的信息。
+
+`<img src="url" alt="some_text">`
+
+另外，<map>可定义图像地图，<area>可定义图像地图中可点击的区域。
+
+# HTML表格 table
+
+`<table>`可定义表格，`<th>`用于表头，`<td>`用于单元格，`<tr>`换行
+
+# HTML列表
+
+- 无序列表`<ul></ul>`
+
+- 有序列表`<ol></ol>`
+
+- 自定义列表`<dl></dl>`
+
+  ```html
+  <ul>
+      <li>Coffee</li>
+      <li>Milk</li>
+  </ul>
+  
+  <ol>
+      <li>first</li>
+      <li>second</li>
+  </ol>
+  
+  <dl>
+      <dt>列表项</dt>
+      <dd>名称</dd>
+  </dl>
+  ```
+
+# HTML区块 `<div> <sapn>`
+
+| 标签            | 描述                                        |
+| :-------------- | :------------------------------------------ |
+| `<div></div>`   | 定义了文档的区域，块级 (block-level)        |
+| `<sapn></span>` | 用来组合文档中的行内元素， 内联元素(inline) |
+
+# HTML表单与输入
+
+`<form></form>`是一个包含表单元素的区域，允许用户输入内容，如文本（textarea）、下拉列表（select）、单选复选框（radio/checkboxes）。
+
+`submit`提交按钮会在表单动作属性定义对文件输入数据的处理。
+
+```html
+<form>
+    文本域：<input type="text">
+    密码字段：<input type="password">
+    单选按钮：<input type="radio">
+    复选框：<input type="checkbox">
+    提交按钮：<input type="submit">
+</form>
+```
+
+
+
+
+
+
+
+
+
 
