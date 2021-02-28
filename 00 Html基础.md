@@ -87,7 +87,7 @@ HTML代码中连续的空行只会显示为一个空格。
 
 CSS（Cascading Style Sheets）用于渲染HTML元素标签的样式
 
-![image-20201201151842338](C:\Users\Wuhuaxing\AppData\Roaming\Typora\typora-user-images\image-20201201151842338.png)
+![./img/CascadingStyleSheets.png](./img/CascadingStyleSheets.png)
 
 - 内嵌
 - 内部样式表
@@ -161,4 +161,5 @@ CSS（Cascading Style Sheets）用于渲染HTML元素标签的样式
 
 
 
+1111
 
