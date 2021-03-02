@@ -89,7 +89,7 @@ CSS（Cascading Style Sheets）用于渲染HTML元素标签的样式
 
 tupian 图片
 
-![](D:\HtmlStudyNotes\img\CascadingStyleSheets.png)
+![](.\img\CascadingStyleSheets.png)
 
 - 内嵌
 - 内部样式表
