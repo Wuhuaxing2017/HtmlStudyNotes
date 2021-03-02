@@ -87,7 +87,9 @@ HTML代码中连续的空行只会显示为一个空格。
 
 CSS（Cascading Style Sheets）用于渲染HTML元素标签的样式
 
-![](.\img\CascadingStyleSheets.png)
+![](https://raw.githubusercontent.com/Wuhuaxing2017/HtmlStudyNotes/wuhuaxing/img/CascadingStyleSheets.png)
+
+
 
 - 内嵌
 - 内部样式表
